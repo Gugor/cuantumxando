@@ -1,2 +1,2 @@
 # cuantumxando
-A 3 in a row game but cuantic
+A 3 in a row game but quantic.
